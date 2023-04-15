@@ -4,6 +4,13 @@
 
   TinDog is a dating site for dogs.  Linked up a previous static website (which was built during a 
   Python Udemy Bootcamp) with HTML / CSS / Bootstrap to a Python Flask server.
+
+Screenshots:
+
+![screenshot1](/static/images/screenshot1.png)
+![screenshot1](/static/images/screenshot2.png)
+![screenshot1](/static/images/screenshot3.png)
+![screenshot1](/static/images/screenshot4.png)
   
   ## Table of Contents
   
